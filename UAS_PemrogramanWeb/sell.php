@@ -73,7 +73,7 @@ if(isset($_POST['submit'])){
 				<p>2. Lidia Sendi Nelwan (20021106076)</p>
 				<p>3. Kanaya Elfira Tumade (20021106165)</p>
 				<p>Link Presentasi :</p>
-				<a href="https://drive.google.com/file/d/1XT5kv6gW62XcGOq3BjnVZY59h4lnSAYi/view?usp=sharing"><strong>Klik Disini</strong></a> 
+				<a href="https://drive.google.com/drive/folders/1-OLIlM9hlRYfnMvS5eRlrb4s0H-46uwa?usp=sharing"><strong>Klik Disini</strong></a> 
 			</div>
 			<div class="popup-footer">
 				<button class="btn popup-close-btn">Close</button>
